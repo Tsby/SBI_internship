@@ -1,2 +1,2 @@
-# SBI_internship
-Тут выложены файлы с кодом по практике 2018 г..
+# SBI internship
+This repository contains the code related to the summer internship in Innovative Center Skolkovo, 2018.
